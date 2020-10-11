@@ -1,5 +1,5 @@
-`js
-console.log("Konichiwa")`
+```js
+console.log("Konichiwa")```
 
 ### Hi there.
 I'm Lexio, and I program some stuff. 
