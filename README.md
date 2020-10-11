@@ -1,16 +1,21 @@
-### Hi there 👋
+`js
+console.log("Konichiwa")`
 
-<!--
-**lexiolvsu/lexiolvsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there.
+I'm Lexio, and I program some stuff. 
 
-Here are some ideas to get you started:
+### FAQ
+**Q: How did you get a README on your profile?**
+A: It's a secret!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Q: Hey, aren't you that 'lexiolvsu' guy?**
+A: Yep, that channel belongs to me.
+
+**Q: How did you start programming?**
+A: I was interested in programming a few years ago when I was younger. I learned some stuff, then created a GitHub profile a few years ago.
+
+### lexiolvsu.github.io
+Visit my developer website.
+
+**Main website: [Click here](https://lexiolvsu.github.io)**
+lexioGit: [Click here](https://lexiolvsu.github.io/git)
